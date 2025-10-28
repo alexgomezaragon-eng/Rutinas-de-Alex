@@ -1,0 +1,5 @@
+{
+  "name": "Rutinas de Alex",
+  "description": "Una aplicación para registrar tus entrenamientos y comidas diarias, con ejercicios categorizados para fuerza, lucha, cardio y más.",
+  "requestFramePermissions": []
+}

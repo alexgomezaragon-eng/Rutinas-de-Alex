@@ -1,0 +1,17 @@
+{
+  "name": "Rutinas de Alex",
+  "short_name": "Rutinas",
+  "description": "Una aplicación para registrar tus entrenamientos y comidas diarias, con ejercicios categorizados para fuerza, lucha, cardio y más.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "scope": "/"
+}
